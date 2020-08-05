@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mo`apps Test</string>
+    <string name="sign_in_error">Помилка при вході</string>
+    <string name="login_using_social">Увійдіть через соціальну мережу</string>
+    <string name="login">Увійти</string>
+    <string name="info">Інформація</string>
+    <string name="or_text">або</string>
+    <string name="enter_password">Будь ласка, введіть ваш пароль</string>
+    <string name="enter_email">Будь ласка, введіть е-mail</string>
+    <string name="info_text">Предпросмотр приложений, созданных с помощью конструктора MO APPS. Для входа введите логин и пароль от личного кабинета на сайте mo-apps.com</string>
+</resources>
